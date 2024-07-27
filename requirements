@@ -1,10 +1,17 @@
+streamlit
 pandas
-numpy
+plotly
+bert  # Assuming a specific version based on compatibility (e.g., bert-embedding-transformers)
+bertopic
+wos   # Might require additional information for specific package (e.g., wospy)
+glob
+wosfile  # Might require additional information for specific package
+bertviz
 spacy
 sentence-transformers
-bertviz
-umap-learn
+umap
 hdbscan
-scikit-learn
+scikit-learn  # Assuming you need scikit-learn for CountVectorizer
 openai
 joblib
+numpy
